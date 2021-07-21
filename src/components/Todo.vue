@@ -113,7 +113,7 @@ h1 {
 }
 .btn:hover {
   background-color: green;
-  transition: 2s;
+  transition: 4s;
 }
 .completed {
   text-decoration: line-through;
